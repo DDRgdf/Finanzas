@@ -2,7 +2,7 @@
 
 A comprehensive financial market analysis tool built with Python, featuring real-time tracking, technical analysis, and AI-powered predictions.
 
-## Features
+Features
 
 - Real-time market data tracking and visualization
 - Technical analysis with multiple indicators (RSI, MACD, Bollinger Bands, etc.)
@@ -12,13 +12,13 @@ A comprehensive financial market analysis tool built with Python, featuring real
 - Fundamental analysis integration
 - Custom financial assistant for personalized advice
 
-## Installation
+Installation
 
-### Prerequisites
+Prerequisites
 
 Make sure you have Python 3.8+ installed on your system.
 
-### Required Libraries
+Required Libraries
 
 Install the required packages using pip:
 bash
@@ -43,7 +43,7 @@ pip install streamlit
    - Price predictions
    - Risk analysis
 
-## Main Components
+Main Components
 
 - `gui.py`: Main application interface
 - `real_time_window.py`: Real-time market data tracking
@@ -51,40 +51,40 @@ pip install streamlit
 - `New_Text_Document.py`: Advanced prediction models and analysis
 - `ayud_fin.py`: Financial assistant and recommendation engine
 
-## Features in Detail
+Features in Detail
 
-### Real-Time Analysis
+Real-Time Analysis
 - Live price tracking
 - Dynamic technical indicators
 - Automatic alert system
 - Interactive charts
 
-### Technical Analysis
+Technical Analysis
 - Multiple timeframe analysis
 - Custom indicator combinations
 - Support/Resistance detection
 - Trend analysis
 
-### Predictions
+Predictions
 - LSTM deep learning model
 - Ensemble methods
 - Multiple timeframe predictions
 - Confidence metrics
 
-### Risk Analysis
+Risk Analysis
 - Volatility metrics
 - Risk-adjusted returns
 - Custom risk profiles
 - Portfolio optimization suggestions
 
-## Contributing
+Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed to Didier Guisland
 
-## Disclaimer
+Disclaimer
 
 This software is for educational purposes only. Do not use it for actual trading without understanding the risks involved in financial markets.
